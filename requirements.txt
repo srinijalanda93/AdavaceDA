@@ -1,0 +1,14 @@
+pytesseract==0.3.10
+Pillow==10.4.0
+opencv-python==4.10.0.84
+pdf2image==1.17.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+python-dateutil==2.9.0
+nltk==3.9.1
+sentence-transformers==3.0.1   # optional, embeddings
+reportlab==4.2.2               # synthetic PDF gen
+Faker==26.0.0
+joblib==1.4.2
+kaggle==1.5.13      
